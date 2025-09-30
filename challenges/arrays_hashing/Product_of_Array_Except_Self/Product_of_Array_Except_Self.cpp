@@ -34,6 +34,8 @@ public:
 // int main () {}
 
 
+// Better time complexity O(n)
+
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
