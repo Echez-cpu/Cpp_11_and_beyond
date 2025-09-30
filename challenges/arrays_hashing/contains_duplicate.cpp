@@ -20,9 +20,6 @@ bool containsDuplicate(vector<int>& nums) {
 
 
 
-
-
-
 // Another solution but timea out with a very large set of numbers... Write a main
 
 // class Solution {
