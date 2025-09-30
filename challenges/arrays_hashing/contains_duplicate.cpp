@@ -80,7 +80,7 @@ public:
 
 // Total comparisons = 4 + 3 + 2 + 1 = 10 → O(n²)
 
-// Works fine for small arrays. ❌ Too slow for large arrays (n=100,000 → ~5,000,000,000 comparisons).
+// Works fine for small arrays.  Too slow for large arrays (n=100,000 → ~5,000,000,000 comparisons).
 
 
 
