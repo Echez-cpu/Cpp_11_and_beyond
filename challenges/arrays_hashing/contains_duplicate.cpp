@@ -9,7 +9,7 @@ bool containsDuplicate(vector<int>& nums) {
 
     for (size_t i = 0; i < nums.size(); ++i) {
         int current = nums[i];     
-        if (seen.count(current) > 0) 
+        if (seen.count(current) > 0) // find(current) != end()
             return true;
         seen.insert(current);         
     }
