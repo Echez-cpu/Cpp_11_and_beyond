@@ -1,3 +1,5 @@
+// Best time
+
 #include <vector>
 #include <unordered_set>
 using namespace std;
@@ -21,7 +23,7 @@ bool containsDuplicate(vector<int>& nums) {
 
 
 
-// Another... Write a main
+// Another solution but timea out with a very large set of numbers... Write a main
 
 // class Solution {
 // public:
