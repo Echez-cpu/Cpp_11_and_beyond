@@ -30,7 +30,6 @@ public:
             }
 
             while (have == needCount) {
-                // Update smallest window
                 if ((right - left + 1) < minLen) {
                     minLen = right - left + 1;
                     minStart = left;
