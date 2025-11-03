@@ -10,7 +10,7 @@ Input: s = "ADOBECODEBANC", t = "ABC"
 Output: "BANC"
 ```
 ## Explanation: 
-``text
+```text
 The minimum window substring "BANC" includes 'A', 'B', and 'C' from string t.
 ```
 
